@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', function()
+Route::get('/simple', function()
 {
-	return View::make('hello');
+	return View::make('simple');
 });
