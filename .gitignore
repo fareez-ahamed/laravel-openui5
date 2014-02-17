@@ -6,4 +6,4 @@ composer.lock
 .env.php
 .DS_Store
 Thumbs.db
-/openui5-runtime-1.16.7
+/public/openui5
