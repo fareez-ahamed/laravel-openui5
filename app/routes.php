@@ -15,3 +15,8 @@ Route::get('/simple', function()
 {
 	return View::make('simple');
 });
+
+Route::get('/',function()
+{
+	return View::make('home');
+});
