@@ -20,3 +20,7 @@ Route::get('/',function()
 {
 	return View::make('home');
 });
+
+Route::group(['prefix' => 'api'],function(){
+	Route::resource('customer','CustomerController');
+});
