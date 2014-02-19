@@ -15,5 +15,5 @@ A sample application using Laravel and OpenUI5
 - `php artisan migrate`
 - `php artisan db:seed`
 - `bower install`
-- `npm install'
+- `npm install`
 - `gulp move-openui5`
