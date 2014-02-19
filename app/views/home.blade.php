@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta charset="UTF-8">
 
-    <title>UI5 SplitApp Boilerplate</title>
+    <title>OpenUI5 Demo Application</title>
 
     <!-- UI5 Bootstrap with OpenUI5 -->
     <!--<script id="sap-ui-bootstrap" type="text/javascript"
@@ -26,6 +26,11 @@
     <style type="text/css">
         .sapUiBody {
             margin: 0 0; 
+        }
+
+        #loginPanel {
+          display: block;
+          margin: 150px auto;
         }
     </style>
 </head>
